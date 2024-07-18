@@ -11,7 +11,7 @@ const options = {
     autoplay: true,
     dots: true,
     autoplayTimeout: 8500,
-    smartSpeed: 450,
+    smartSpeed: 500,
     nav: false,
     responsive: {
         0: {
