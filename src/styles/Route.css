@@ -1,0 +1,60 @@
+.route-section {
+    padding: 80px 0px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.route-container h2 {
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.route-container img {
+    width: 70%;
+    border-radius: 25px;    
+    margin-bottom: 20px;
+    max-height: 500px;
+}
+
+.button-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.maps-button{
+    background-color: #083919;
+    border-radius: 15px;
+}
+
+.maps-button a {
+    color: #E8F3EB;
+    text-decoration: none;
+}
+
+.maps-button a p {
+    padding: 5px 20px;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.maps-button a p i {
+  margin-left: 10px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+    .route-container img {
+        width: 90%;
+    }
+}
+
+@media (max-width: 576px) {
+    .route-section h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+}

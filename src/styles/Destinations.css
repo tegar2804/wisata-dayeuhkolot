@@ -1,0 +1,113 @@
+.dest-section {
+    padding: 80px 0;
+    overflow: hidden;
+}
+
+.dest-section-title {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.dest-section-title span {
+    color: #0E602A;
+}
+
+.dest-list {
+    margin: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    overflow: visible;
+}
+
+.dest-card {
+    position: relative;
+    width: 250px;
+    height: 300px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 20px;
+}
+
+.dest-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.center .advantage-card {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.card-link img {
+    width: 250px;
+    height: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+}
+
+.card-link .dest-desc {
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    margin-bottom: 15px;
+    background: white; /* Optional: Adds a background to the text */
+    color: #000000;
+    text-align: left;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.card-link .dest-desc p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.card-link .dest-desc h6 {
+    font-size: 16px;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .dest-list {
+        padding: 20px 0;
+        width: 200%;
+        translate: -25%;
+    }
+
+    .owl-item {
+        display: flex;
+        width: 80%;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        padding: 30px 0px;
+    }
+}
+
+@media (max-width: 576px) {
+    .dest-list {
+        margin: 0px;
+    }
+
+    .dest-section-title {
+        font-weight: bold;
+        font-size: 30px;
+    }
+}
