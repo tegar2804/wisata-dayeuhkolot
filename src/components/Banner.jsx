@@ -1,4 +1,3 @@
-import React from 'react';
 import '../styles/Banner.css';
 import backgroundImage from '/Assets/IMG/curug.jpg';
 import { Container } from 'react-bootstrap';

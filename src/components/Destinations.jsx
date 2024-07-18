@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import OwlCarousel from 'react-owl-carousel'; 
 import '../styles/Destinations.css';
 import { Container } from 'react-bootstrap';
