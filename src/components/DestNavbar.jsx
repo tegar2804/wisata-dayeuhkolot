@@ -1,9 +1,27 @@
-import { Container, Nav, Navbar } from 'react-bootstrap';
-import '../styles/Navbar.css'
+import React, { useState, useEffect } from 'react';
+import { Navbar, Nav, Container } from 'react-bootstrap';
 
-const NavigationBar = () => {
+const MyNavbar = () => {
+  const [expanded, setExpanded] = useState(false);
+
+  const handleToggle = () => setExpanded(!expanded);
+  const handleClose = () => setExpanded(false);
+
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (expanded && !event.target.closest('.navbar-collapse')) {
+        setExpanded(false);
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [expanded]);
+
   return (
-    <Navbar expand="lg" fixed="top" className='navbar'>
+    <Navbar expand="lg" fixed="top" className='navbar' expanded={expanded} onToggle={handleToggle}>
       <Container className="container-sm container-md container-lg">
         <Navbar.Brand href="/"><img src="/Assets/IMG/dark-logo.png" alt="wisata-dayeuhkolot" /></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -32,4 +50,4 @@ const NavigationBar = () => {
   );
 };
 
-export default NavigationBar;
+export default MyNavbar;
