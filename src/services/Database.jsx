@@ -7,23 +7,23 @@ const dests = [
         imageUrl: '/Assets/IMG/curug.jpg', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
@@ -48,23 +48,23 @@ const dests = [
         imageUrl: 'https://via.placeholder.com/300x200', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
@@ -89,23 +89,23 @@ const dests = [
         imageUrl: 'https://via.placeholder.com/300x200', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
@@ -130,23 +130,23 @@ const dests = [
         imageUrl: 'https://via.placeholder.com/300x200', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
@@ -163,31 +163,31 @@ const dests = [
         ] 
     },
     { 
-        id: "tempat-musuh", 
-        name: 'Tempat Musuh', 
+        id: "kecamatan", 
+        name: 'Kantor Camat', 
         address: 'Jl. Raya Alun-Alun Selatan No.98', 
         info: 'Info tambahan lainnya', 
-        desc: 'Tempat lokakarya yang BPH-nya dari desa Dayeuhkolot semua.',
+        desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit, tempora veritatis animi magnam eveniet consectetur placeat cum",
         imageUrl: '/Assets/IMG/banner.jpg',
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/800x300'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/800x300'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/800x300'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/800x300'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/800x300'
             },
         ],
@@ -212,23 +212,23 @@ const dests = [
         imageUrl: 'https://via.placeholder.com/300x200', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
@@ -253,23 +253,23 @@ const dests = [
         imageUrl: 'https://via.placeholder.com/300x200', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
@@ -294,23 +294,23 @@ const dests = [
         imageUrl: 'https://via.placeholder.com/300x200', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
@@ -335,23 +335,23 @@ const dests = [
         imageUrl: 'https://via.placeholder.com/300x200', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
@@ -376,23 +376,23 @@ const dests = [
         imageUrl: 'https://via.placeholder.com/300x200', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
@@ -417,23 +417,23 @@ const dests = [
         imageUrl: 'https://via.placeholder.com/300x200', 
         advantages: [
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
             {
-                name: 'Banyak Pungli',
+                name: 'Keunggulan atau Layanan',
                 imageUrl: 'https://via.placeholder.com/300x200'
             },
         ],
