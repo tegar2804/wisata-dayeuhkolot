@@ -1,0 +1,10 @@
+.modal-content {
+    background-color: #E8F3EB;
+}
+
+.modal-content .modal-body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}

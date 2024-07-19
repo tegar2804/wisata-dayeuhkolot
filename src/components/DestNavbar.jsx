@@ -9,7 +9,7 @@ const MyNavbar = () => {
 
   useEffect(() => {
     const handleClickOutside = (event) => {
-      if (expanded && !event.target.closest('.navbar-collapse')) {
+      if (expanded && !event.target.closest('.navbar-collapse') && !event.target.closest('.navbar-toggler')) {
         setExpanded(false);
       }
     };

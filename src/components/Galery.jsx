@@ -1,7 +1,8 @@
 import '../styles/Galery.css';
+import '../styles/Modal.css';
 import { useState } from 'react';
+import { Modal } from 'react-bootstrap';
 import { Container } from 'react-bootstrap';
-import { Modal, Button } from 'react-bootstrap';
 
 const Galery = ({dest}) => {
     const [show, setShow] = useState(false);
@@ -41,15 +42,12 @@ const Galery = ({dest}) => {
                 </div>
             </div>
         </Container>
-        <Modal show={show} onHide={handleClose} centered>
-            <Modal.Body>
-                <img src={currentImage} alt="Full Screen" style={{ width: '100%', height: 'auto' }} />
-            </Modal.Body>
-            <Modal.Footer>
-                <Button variant="secondary" onClick={handleClose}>
-                    Close
-                </Button>
-            </Modal.Footer>
+        <Modal show={show} onHide={handleClose} centered size="lg" dialogClassName="modal-fullscreen">
+          <Modal.Header closeButton>
+          </Modal.Header>
+          <Modal.Body>
+            <img src={currentImage} alt="Full Screen" style={{ width: '100%', height: 'min-content' }} />
+          </Modal.Body>
         </Modal>
     </div>
     );

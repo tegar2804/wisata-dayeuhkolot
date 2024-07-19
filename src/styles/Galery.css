@@ -44,6 +44,7 @@
 
 .galery-list .galery-card {
     position: relative;
+    cursor: pointer;
 }
 
 .galery-list .left .galery-card {
