@@ -9,8 +9,8 @@ const Banner = () => {
         <div className="contents">
           <div className="banner-title">
             <h1>&quot;BERBUDI&quot;</h1>
-            <h1>Desa Mandiri</h1>
             <h1>Desa Wisata</h1>
+            <h1>Desa Mandiri</h1>
           </div>
         </div>
       </Container>
