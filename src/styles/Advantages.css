@@ -66,12 +66,12 @@
     width: 250px;
     height: 300px;
     border: #000000 solid 1px;
-    background-color: white;
+    background-color: #e8f3eb;
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     transition: transform 0.3s, box-shadow 0.3s;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 .advantage-card:hover {
@@ -100,13 +100,13 @@
     text-align: center;
     align-items: center;
     padding: 10px;
-    border-radius: 20px;
+    border-radius: 15px;
     height: 30%;
 }
 
 .advantage-card .card-container .advantage-desc h6 {
     width: 100%;
-    font-size: 16px;
+    font-size: 20px;
     margin: 0;
 }
 
@@ -114,7 +114,8 @@
     width: 222px;
     height: 184px;
     margin: 20px 0px;
-    border-radius: 20px;
+    border-radius: 15px;
+    border: #000000 solid 1px;
     overflow: hidden;
     object-fit: cover;
 }
@@ -139,7 +140,7 @@
         width: 222px;
         height: 184px;
         margin: 20px 0px;
-        border-radius: 20px;
+        border-radius: 15px;
         overflow: hidden;
         object-fit: cover;
     }

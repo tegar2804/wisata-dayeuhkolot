@@ -31,7 +31,7 @@ const Advantages = ({dest}) => {
 
     useEffect(() => {
       const handleResize = () => {
-        setIsLaptop(window.innerWidth > 768); // Adjust this value based on your desired breakpoint
+        setIsLaptop(window.innerWidth > 768);
       };
 
       handleResize();
@@ -77,7 +77,7 @@ const Advantages = ({dest}) => {
             </div>
         </Container>
         <div className="advantages-background-container">
-          <img src={dest.imageUrl} alt="Background" className="advantages-background" />
+          <img src={dest.bannerUrl} alt="Background" className="advantages-background" />
         </div>
     </div>
     );
