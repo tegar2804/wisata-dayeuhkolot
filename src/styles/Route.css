@@ -13,10 +13,11 @@
 }
 
 .route-container img {
-    width: 70%;
+    width: 55%;
     border-radius: 25px;    
     margin-bottom: 20px;
     max-height: 500px;
+    border: #083919 solid 3px;
 }
 
 .button-container{
@@ -44,6 +45,12 @@
 .maps-button a p i {
   margin-left: 10px;
   text-align: center;
+}
+
+@media (max-width: 1024px) {
+    .route-container img {
+        width: 70%;
+    }
 }
 
 @media (max-width: 768px) {

@@ -42,11 +42,11 @@ const Galery = ({dest}) => {
                 </div>
             </div>
         </Container>
-        <Modal show={show} onHide={handleClose} centered size="lg" dialogClassName="modal-fullscreen">
+        <Modal show={show} onHide={handleClose} centered size="lg" dialogClassName="modal">
           <Modal.Header closeButton>
           </Modal.Header>
           <Modal.Body>
-            <img src={currentImage} alt="Full Screen" style={{ width: '100%', height: 'min-content' }} />
+            <img src={currentImage} alt="modal"/>
           </Modal.Body>
         </Modal>
     </div>
