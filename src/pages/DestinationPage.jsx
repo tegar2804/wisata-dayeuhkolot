@@ -6,6 +6,7 @@ import Route from '../components/Route';
 import Galery from '../components/Galery';
 import NotFound from '../pages/NotFound';
 import { useParams } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 
 const DestinationPage = ({ dests }) => {
   const { id } = useParams();
@@ -21,6 +22,9 @@ const DestinationPage = ({ dests }) => {
 
   return (
     <>
+      <Helmet>
+        <title>{destination.name} - Wisata Dayeuhkolot</title>
+      </Helmet>
       <Navbar />
       <main>
         <Description dest={destination} />

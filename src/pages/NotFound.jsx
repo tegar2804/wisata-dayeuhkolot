@@ -1,10 +1,14 @@
 import '../styles/NotFound.css';
 import { Container } from 'react-bootstrap';
 import Footer from '../components/Footer'
+import { Helmet } from 'react-helmet';
 
 const NotFound = () => {
   return (
     <>
+      <Helmet>
+        <title>Not Found - Wisata Dayeuhkolot</title>
+      </Helmet>
       <div className="notfound-section">
         <h2 className='bg-text top'>ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR</h2>
         <Container className="container-sm container-md container-lg">
