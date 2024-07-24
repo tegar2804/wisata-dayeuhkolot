@@ -9,7 +9,7 @@ const NavigationBar = () => {
             <Nav className="ms-auto option">
               <Nav.Link 
                   key='Kembali'
-                  href='#'
+                  href='https://sites.google.com/view/dayeuhkolotsagalaherang'
                   className="nav-item back-button home-back-button"
                 >
                   <p><span>kembali</span><i className="fa fa-external-link"></i></p>

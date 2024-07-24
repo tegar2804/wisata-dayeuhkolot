@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 
 const MyNavbar = () => {
@@ -38,7 +38,7 @@ const MyNavbar = () => {
               ))}
               <Nav.Link 
                   key='Kembali'
-                  href='#'
+                  href='https://sites.google.com/view/dayeuhkolotsagalaherang'
                   className="nav-item back-button"
                 >
                   <p>kembali<i className="fa fa-external-link"></i></p>
