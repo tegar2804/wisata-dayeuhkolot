@@ -63,7 +63,7 @@ const dests = [
             },
             {
                 name: 'Fasilitas Wi-fi Gratis',
-                imageUrl: '/Assets/IMG/dukopi/adv-'
+                imageUrl: '/Assets/IMG/dukopi/adv-3.jpg'
             },
             {
                 name: 'Spot Foto yang Instagramable',
@@ -92,7 +92,7 @@ const dests = [
         desc: 'Destinasi agrowisata yang menawarkan pengalaman berkebun dan memanen buah-buahan segar langsung dari kebunnya.',
         address: 'Jl. Raya Sagalaherang, Bojongrangkas', 
         info: 'Agrowisata', 
-        imageUrl: '/Assets/IMGgreen-house/main.jpg', 
+        imageUrl: '/Assets/IMG/green-house/main.jpg', 
         bannerUrl: '/Assets/IMG/green-house/banner.jpg', 
         advantages: [
             {
@@ -118,26 +118,26 @@ const dests = [
         name: 'Dolay\'s Coffeeshop', 
         address: 'Kp. Dayeuhkolot, Dayeuhkolot', 
         info: 'Coffee Shop', 
-        desc: "Kafe dengan konsep unik dan dekorasi yang artistik, menyajikan berbagai jenis kopi dan camilan lezat.",
+        desc: "Kafe dengan konsep sederhana yang menyajikan berbagai jenis kopi dan aneka minuman serta makanan lainnya.",
         imageUrl: '/Assets/IMG/dolays-coffeshop/main.png',
         bannerUrl: '/Assets/IMG/dolays-coffeshop/banner.png',
         advantages: [
             {
-                name: 'Keunggulan atau Layanan',
-                imageUrl: '/Assets/IMG/'
+                name: 'Sensasi Kopi Olahan Langsung Dari Biji',
+                imageUrl: '/Assets/IMG/dolays-coffeshop/adv-1.png'
             },
             {
-                name: 'Keunggulan atau Layanan',
-                imageUrl: '/Assets/IMG/'
+                name: 'Sederhana dan Nyaman untuk Bersantai',
+                imageUrl: '/Assets/IMG/dolays-coffeshop/adv-2.jpg'
             },
             {
-                name: 'Keunggulan atau Layanan',
-                imageUrl: '/Assets/IMG/'
+                name: 'Berbagai Menu Minuman dan Makanan',
+                imageUrl: '/Assets/IMG/dolays-coffeshop/adv-3.jpg'
             },
         ],
         route: {
-            imageUrl: '/Assets/IMG/',
-            gmaps: 'https://www.google.com/maps/place/Kantor+Kecamatan+Sagalaherang/@-6.6743901,107.6501748,17z/data=!4m6!3m5!1s0x2e6918b1646a0d99:0xbec2a273ee32a9af!8m2!3d-6.6743954!4d107.6527497!16s%2Fg%2F11cly9gdxd?entry=ttu'
+            imageUrl: '/Assets/IMG/dolays-coffeshop/route.png',
+            gmaps: 'https://www.google.com/maps/dir/Kantor+Desa+Dayeuhkolot+Kab+Subang/8JHR%2B8G8+Dollay\'s+Coffee+Shop,+Dayeuhkolot,+Kec.+Sagalaherang,+Kabupaten+Subang,+Jawa+Barat+41282/@-6.6711688,107.6412069,18.75z/data=!4m14!4m13!1m5!1m1!1s0x2e6918c7d8f2fb7f:0x14efc604d2ca8dbc!2m2!1d107.6430943!2d-6.6699361!1m5!1m1!1s0x2e691969c5d6c23f:0x859e7fbb508b1111!2m2!1d107.6415552!2d-6.6715355!3e9?entry=ttu'
         },
         galeries: [
             '/Assets/IMG/dolays-coffeshop/galery-1.png',
@@ -150,7 +150,7 @@ const dests = [
     { 
         id: "makam-kibodas", 
         name: 'Makam Kibodas', 
-        desc: 'Situs bersejarah yang menjadi tempat peristirahatan tokoh penting dalam sejarah lokal, dengan arsitektur makam yang khas dan penuh nilai sejarah.',
+        desc: 'Situs bersejarah yang menjadi tempat peristirahatan Rd. Tumenggung Aria Yudanegara bin Dalem Aria Wangsa Goparana sebagai penyebar agama Islam di Desa Dayeuhkolot.',
         address: 'Kp. Margaluyu, Dayeuhkolot', 
         info: 'Wisata Religi', 
         imageUrl: '/Assets/IMG/makam-kibodas/main.png', 
