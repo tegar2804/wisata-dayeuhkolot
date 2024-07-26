@@ -12,10 +12,9 @@ const Footer = () => {
                             <h6>Hubungi Kami</h6>
                         </div>
                         <div className="contact">
-                            <a href=""><i className="fa fa-instagram"></i></a>
-                            <a href=""><i className="fa fa-facebook-square"></i></a>
-                            <a href=""><i className="fa fa-envelope"></i></a>
-                            <a href=""><i className="fa fa-envelope"></i></a>
+                            <a href="https://www.instagram.com/dayeuhkolotdesa?igsh=MTNnejFieGd0ZHBtMg=="><i className="fa fa-instagram"></i></a>
+                            <a href="mailto:pemdesdayeuhkolot@gmail.com"><i className="fa fa-envelope"></i></a>
+                            <a href="mailto:muhammadtegar2804@gmail.com"><i className="fa fa-envelope"></i></a>
                         </div>
                     </div>    
                 </div>
