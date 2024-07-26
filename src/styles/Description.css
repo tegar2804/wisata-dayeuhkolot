@@ -75,6 +75,10 @@
         width: 100%;
     }
     
+    .desc-container .desc-text h2 {
+        text-align: justify;
+    }
+
     .desc-container .desc-text {
         padding-top: 25px;
         padding-left: 0px;
@@ -107,6 +111,10 @@
         font-size: 30px;
     }
     
+    .desc-container .desc-text h2 {
+        text-align: justify;
+    }
+
     .desc-container .desc-text > * {
         text-align: center;
     }
@@ -123,6 +131,7 @@
     
     .desc-container h2 {
         font-size: 20px;
+        text-align: justify;
     }
 
     .desc-container .desc-img img {
