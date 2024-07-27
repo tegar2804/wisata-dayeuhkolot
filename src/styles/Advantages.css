@@ -71,7 +71,7 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     transition: transform 0.3s, box-shadow 0.3s;
-    border-radius: 15px;
+    border-radius: 30px;
 }
 
 .advantage-card:hover {
@@ -113,7 +113,7 @@
 .advantage-card .card-container img {
     width: 222px;
     height: 184px;
-    margin: 20px 0px;
+    margin: 15px 0px;
     border-radius: 15px;
     border: #000000 solid 1px;
     overflow: hidden;
@@ -139,7 +139,7 @@
     .owl-item .advantage-card .card-container img {
         width: 222px;
         height: 184px;
-        margin: 20px 0px;
+        margin: 15px 0px;
         border-radius: 15px;
         overflow: hidden;
         object-fit: cover;
