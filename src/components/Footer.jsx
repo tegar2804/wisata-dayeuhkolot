@@ -19,6 +19,7 @@ const Footer = () => {
                     </div>    
                 </div>
                 <div className="copyright">
+                    <img src="/Assets/IMG/Logo_IPB.png" alt="ipb university" />
                     <p>Copyright <i className='fa fa-copyright'></i> 2024 All Rights Reserved</p>
                 </div>
             </Container>

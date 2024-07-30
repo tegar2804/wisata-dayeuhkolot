@@ -29,8 +29,18 @@ footer img {
 }
 
 .copyright {
-    padding: 5px;
+    padding: 10px;
     border-top: #E8F3EB solid 1px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.copyright img {
+    margin-right: 5px;
+    width: 30px;
+    height: auto;
 }
 
 .copyright p {
