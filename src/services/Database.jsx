@@ -49,7 +49,7 @@ const dests = [
         name: 'Dukopi', 
         desc: 'Kafe yang menyajikan berbagai jenis kopi dengan suasana yang nyaman dan modern, cocok untuk tempat berkumpul dan bersantai.',
         address: 'Kp. Sukasari, Margaluyu', 
-        info: 'Coffee Shop', 
+        info: 'Food and Baverage', 
         imageUrl: '/Assets/IMG/dukopi/main.png', 
         bannerUrl: '/Assets/IMG/dukopi/banner.jpg', 
         advantages: [
@@ -117,7 +117,7 @@ const dests = [
         id: "dolays-coffeshop", 
         name: 'Dolay\'s Coffeeshop', 
         address: 'Dusun Dayeuhkolot, Dayeuhkolot', 
-        info: 'Coffee Shop', 
+        info: 'Food and Baverage', 
         desc: "Kafe dengan konsep sederhana yang menyajikan berbagai jenis kopi dan aneka minuman serta makanan lainnya.",
         imageUrl: '/Assets/IMG/dolays-coffeshop/main.png',
         bannerUrl: '/Assets/IMG/dolays-coffeshop/banner.png',
@@ -224,7 +224,7 @@ const dests = [
         name: 'Oemah Keboen', 
         desc: 'Villa dengan konsep alami yang dikelilingi oleh kebun dan taman hijau, menawarkan pengalaman menginap yang tenang dan damai.',
         address: 'Margaluyu, Dayeuhkolot', 
-        info: 'Penginapan / Villa', 
+        info: 'Hotel / Villa', 
         imageUrl: '/Assets/IMG/oemah-keboen/main.png', 
         bannerUrl: '/Assets/IMG/oemah-keboen/banner.jpg', 
         advantages: [
@@ -296,7 +296,7 @@ const dests = [
         name: 'Saung Panjugjugan', 
         desc: 'Villa tradisional dengan arsitektur khas yang dikelilingi oleh pemandangan alam hijau, menawarkan pengalaman menginap yang autentik dan menenangkan.',
         address: 'Kp. Sukasari, Margaluyu', 
-        info: 'Penginapan / Villa', 
+        info: 'Food and Baverage', 
         imageUrl: '/Assets/IMG/saung-panjugjugan/main.png', 
         bannerUrl: '/Assets/IMG/saung-panjugjugan/banner.jpg', 
         advantages: [
