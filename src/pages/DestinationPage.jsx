@@ -23,7 +23,7 @@ const DestinationPage = ({ dests }) => {
   return (
     <>
       <Helmet>
-        <title>{destination.name} - Wisata Dayeuhkolot</title>
+        <title>{destination.name} - Wisata Dayeuhkolot Sagalaherang</title>
       </Helmet>
       <Navbar />
       <main>
