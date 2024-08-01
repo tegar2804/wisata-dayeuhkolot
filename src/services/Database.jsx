@@ -345,7 +345,7 @@ const dests = [
         id: "cimujah-valley-ecopark", 
         name: 'Cimujah Valley Ecopark', 
         desc: 'Taman ekowisata dengan taman bunga serta pemandangan memukau yang menawarkan berbagai aktivitas alam.',
-        address: 'Bojongrangkas, Dayeuhkolot',
+        address: 'Kp. Nunuk, Bojongrangkas',
         info: 'Wisata Alam', 
         imageUrl: '/Assets/IMG/cimujah-valley-ecopark/main.png', 
         bannerUrl: '/Assets/IMG/cimujah-valley-ecopark/banner.png', 

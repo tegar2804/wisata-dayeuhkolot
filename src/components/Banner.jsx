@@ -1,5 +1,5 @@
 import '../styles/Banner.css';
-import backgroundImage from '/Assets/IMG/curug.jpg';
+import backgroundImage from '/Assets/IMG/banner.png';
 import { Container } from 'react-bootstrap';
 
 const Banner = () => {
