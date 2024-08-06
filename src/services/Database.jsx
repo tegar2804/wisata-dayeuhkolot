@@ -181,44 +181,44 @@ const dests = [
             '/Assets/IMG/makam-kibodas/galery-5.png'
         ] 
     },
-    { 
-        id: "bukit-jamali", 
-        name: 'Bukit Jamali', 
-        desc: 'Bukit dengan pemandangan alam yang menakjubkan, ideal untuk menikmati panorama yang luas dan indah serta fotografi alam.',
-        address: 'Jl. Raya Ciceuri, Kp. Sukasari', 
-        info: 'Wisata Alam', 
-        imageUrl: '/Assets/IMG/bukit-jamali/main.png', 
-        bannerUrl: '/Assets/IMG/bukit-jamali/banner.png',
-        advantages: [
-            {
-                name: 'Pemandangan Bukit',
-                imageUrl: '/Assets/IMG/bukit-jamali/adv-1.png'
-            },
-            {
-                name: 'Lingkungan yang Asri dan Sejuk',
-                imageUrl: '/Assets/IMG/bukit-jamali/adv-2.png'
-            },
-            {
-                name: 'Taman untuk Bersantai',
-                imageUrl: '/Assets/IMG/bukit-jamali/adv-3.png'
-            },
-            {
-                name: 'Spot Foto Menarik',
-                imageUrl: '/Assets/IMG/bukit-jamali/adv-4.png'
-            },
-        ],
-        route: {
-            imageUrl: '/Assets/IMG/bukit-jamali/route.png',
-            gmaps: 'https://www.google.com/maps/dir/Kantor+Desa+Dayeuhkolot+Kab+Subang/Bukit+Jamali+Park+Teras+Desa+Sukamandi,+Jl.+Raya+Ciceuri,+Sukamandi,+Kec.+Sagalaherang,+Kabupaten+Subang,+Jawa+Barat+41282/@-6.6783818,107.6309327,15.25z/data=!4m14!4m13!1m5!1m1!1s0x2e6918c7d8f2fb7f:0x14efc604d2ca8dbc!2m2!1d107.6430943!2d-6.6699361!1m5!1m1!1s0x2e691f54e5af7331:0x2bdc00fea28f5197!2m2!1d107.6347957!2d-6.6876437!3e9?entry=ttu'
-        },
-        galeries: [
-            '/Assets/IMG/bukit-jamali/galery-1.png',
-            '/Assets/IMG/bukit-jamali/galery-2.png',
-            '/Assets/IMG/bukit-jamali/galery-3.png',
-            '/Assets/IMG/bukit-jamali/galery-4.png',
-            '/Assets/IMG/bukit-jamali/galery-5.png'
-        ] 
-    },
+    // { 
+    //     id: "bukit-jamali", 
+    //     name: 'Bukit Jamali', 
+    //     desc: 'Bukit dengan pemandangan alam yang menakjubkan, ideal untuk menikmati panorama yang luas dan indah serta fotografi alam.',
+    //     address: 'Jl. Raya Ciceuri, Kp. Sukasari', 
+    //     info: 'Wisata Alam', 
+    //     imageUrl: '/Assets/IMG/bukit-jamali/main.png', 
+    //     bannerUrl: '/Assets/IMG/bukit-jamali/banner.png',
+    //     advantages: [
+    //         {
+    //             name: 'Pemandangan Bukit',
+    //             imageUrl: '/Assets/IMG/bukit-jamali/adv-1.png'
+    //         },
+    //         {
+    //             name: 'Lingkungan yang Asri dan Sejuk',
+    //             imageUrl: '/Assets/IMG/bukit-jamali/adv-2.png'
+    //         },
+    //         {
+    //             name: 'Taman untuk Bersantai',
+    //             imageUrl: '/Assets/IMG/bukit-jamali/adv-3.png'
+    //         },
+    //         {
+    //             name: 'Spot Foto Menarik',
+    //             imageUrl: '/Assets/IMG/bukit-jamali/adv-4.png'
+    //         },
+    //     ],
+    //     route: {
+    //         imageUrl: '/Assets/IMG/bukit-jamali/route.png',
+    //         gmaps: 'https://www.google.com/maps/dir/Kantor+Desa+Dayeuhkolot+Kab+Subang/Bukit+Jamali+Park+Teras+Desa+Sukamandi,+Jl.+Raya+Ciceuri,+Sukamandi,+Kec.+Sagalaherang,+Kabupaten+Subang,+Jawa+Barat+41282/@-6.6783818,107.6309327,15.25z/data=!4m14!4m13!1m5!1m1!1s0x2e6918c7d8f2fb7f:0x14efc604d2ca8dbc!2m2!1d107.6430943!2d-6.6699361!1m5!1m1!1s0x2e691f54e5af7331:0x2bdc00fea28f5197!2m2!1d107.6347957!2d-6.6876437!3e9?entry=ttu'
+    //     },
+    //     galeries: [
+    //         '/Assets/IMG/bukit-jamali/galery-1.png',
+    //         '/Assets/IMG/bukit-jamali/galery-2.png',
+    //         '/Assets/IMG/bukit-jamali/galery-3.png',
+    //         '/Assets/IMG/bukit-jamali/galery-4.png',
+    //         '/Assets/IMG/bukit-jamali/galery-5.png'
+    //     ] 
+    // },
     { 
         id: "oemah-keboen", 
         name: 'Oemah Keboen', 
